@@ -2,7 +2,6 @@
 
 
 ````
-
 isSqr(int) // return a true or false if the number is Square.
 
 
@@ -10,4 +9,4 @@ isFibonacci(int) // return a String message if number belongs to Fibonacci Serie
 
 ````
 
-Feel free to send PR to add something or improved methods.
+Feel free to send PR to add something or improved functions.
